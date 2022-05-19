@@ -1,0 +1,3 @@
+C:/Users/10154/Desktop/acwing/basic c++ pro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/10154/Desktop/acwing/basic c++ pro/cmake-build-debug/CMakeFiles/basic_c___pro.dir
+C:/Users/10154/Desktop/acwing/basic c++ pro/cmake-build-debug/CMakeFiles/edit_cache.dir

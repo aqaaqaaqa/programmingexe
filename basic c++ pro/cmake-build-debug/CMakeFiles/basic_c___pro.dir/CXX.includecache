@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/10154/Desktop/acwing/basic c++ pro/p1217.cpp
+iostream
+C:/Users/10154/Desktop/acwing/basic c++ pro/iostream
+
