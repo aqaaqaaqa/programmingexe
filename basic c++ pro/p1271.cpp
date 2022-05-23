@@ -18,7 +18,7 @@ int main(){
     }
     merge_sort(q, 0, m-1);
     for(int i = 0; i < m; i++){
-        printf("%d ", q[i]);
+        printf("%d  ", q[i]);
     }
 }
 
