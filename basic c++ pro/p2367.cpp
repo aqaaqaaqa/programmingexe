@@ -30,7 +30,7 @@ int main(){
     while(p--){
         scanf("%d%d%d",&x, &y, &z);
         insert(x, y, z);
-    } 
+    }
     int min = b[1];
     for(int i = 1 ; i <= n ; i ++){
         b[i] += b[i - 1];

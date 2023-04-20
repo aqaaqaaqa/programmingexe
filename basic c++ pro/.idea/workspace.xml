@@ -12,16 +12,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71d56d05-5668-4f2d-a942-cde29aedca45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/p1024.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1059.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1115.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1115fast.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1303.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1480.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1601.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1719.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p2142.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p2367.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinomialCoefficients.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoj1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alog3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csapp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/honorcode.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intpart.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lexorder.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lexordernew.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1093.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1781.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p7714.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primefactors.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/CXX.includecache" afterDir="false" />
@@ -32,9 +34,12 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/p2367.cpp.obj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/basic_c___pro.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/basic_c___pro.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/basic_c___pro.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/basic_c___pro.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1177.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/p1177.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p2367.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/p2367.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/排序.md" beforeDir="false" afterPath="$PROJECT_DIR$/排序.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -59,25 +64,25 @@
     <select />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="basic_c___pro" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/p2367.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-              <folding>
-                <element signature="e#41#60#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/p1923.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -98,7 +103,6 @@
         <option value="$PROJECT_DIR$/acwing1.cpp" />
         <option value="$PROJECT_DIR$/B2002.cpp" />
         <option value="$PROJECT_DIR$/B2003.cpp" />
-        <option value="$PROJECT_DIR$/p1177.cpp" />
         <option value="$PROJECT_DIR$/ponetwooneseven.cpp" />
         <option value="$PROJECT_DIR$/p1217.cpp" />
         <option value="$PROJECT_DIR$/p1271.cpp" />
@@ -113,14 +117,26 @@
         <option value="$PROJECT_DIR$/p1115.cpp" />
         <option value="$PROJECT_DIR$/p1115fast.cpp" />
         <option value="$PROJECT_DIR$/p1719.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/p2367.cpp" />
+        <option value="$PROJECT_DIR$/p7714.cpp" />
+        <option value="$PROJECT_DIR$/Binomial Coefficients.cpp" />
+        <option value="$PROJECT_DIR$/BinomialCoefficients.cpp" />
+        <option value="$PROJECT_DIR$/lexorder.cpp" />
+        <option value="$PROJECT_DIR$/lexordernew.cpp" />
+        <option value="$PROJECT_DIR$/honorcode.cpp" />
+        <option value="$PROJECT_DIR$/primefactors.cpp" />
+        <option value="$PROJECT_DIR$/intpart.cpp" />
+        <option value="$PROJECT_DIR$/algoj1.cpp" />
+        <option value="$PROJECT_DIR$/alog3.cpp" />
+        <option value="$PROJECT_DIR$/p1177.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/p1093.cpp" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -203,11 +219,49 @@
       <workItem from="1654654777898" duration="5778000" />
       <workItem from="1654747780985" duration="6963000" />
       <workItem from="1654826365144" duration="7460000" />
+      <workItem from="1655002792380" duration="4302000" />
+      <workItem from="1655268444550" duration="640000" />
+      <workItem from="1655269226418" duration="25000" />
+      <workItem from="1656836879672" duration="2491000" />
+      <workItem from="1657030043546" duration="1195000" />
+      <workItem from="1657616464831" duration="599000" />
+      <workItem from="1663859798429" duration="11711000" />
+      <workItem from="1665314585475" duration="17254000" />
+      <workItem from="1666545833556" duration="1561000" />
+      <workItem from="1666548308553" duration="787000" />
+      <workItem from="1666586056117" duration="7397000" />
+      <workItem from="1667308894666" duration="2912000" />
+      <workItem from="1667461135645" duration="639000" />
+      <workItem from="1667745290334" duration="57000" />
+      <workItem from="1668660021179" duration="3000" />
+      <workItem from="1668910912467" duration="7000" />
+      <workItem from="1669639507393" duration="1282000" />
+      <workItem from="1669711634612" duration="7972000" />
+      <workItem from="1670942160876" duration="4461000" />
+      <workItem from="1670949889996" duration="2129000" />
+      <workItem from="1671352154766" duration="449000" />
+      <workItem from="1671600645494" duration="3000" />
+      <workItem from="1672404829114" duration="3000" />
+      <workItem from="1672553170980" duration="3000" />
+      <workItem from="1678265679006" duration="799000" />
+      <workItem from="1678368634064" duration="599000" />
+      <workItem from="1678427241758" duration="609000" />
+      <workItem from="1679317379998" duration="1889000" />
+      <workItem from="1679390312955" duration="599000" />
+      <workItem from="1679463403606" duration="1864000" />
+      <workItem from="1679635761997" duration="599000" />
+      <workItem from="1680186793698" duration="455000" />
+      <workItem from="1680242599882" duration="744000" />
+      <workItem from="1681115384623" duration="1226000" />
+      <workItem from="1681181242884" duration="2881000" />
+      <workItem from="1681452254466" duration="13480000" />
+      <workItem from="1681615371433" duration="8487000" />
+      <workItem from="1681976527543" duration="2096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96964000" />
+    <option name="totallyTimeSpent" value="201173000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -219,29 +273,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.15147454" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16152816" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6638418" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38128492" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6564246" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35893854" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32960895" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32960895" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="CMake" order="11" weight="0.32909605" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.9180791" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32960895" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.3282123" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.64664805" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32918397" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,13 +312,22 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>q</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../ny758+stm32+A0/ny758+stm32+A0/User/main.c" />
-    <entry file="file://$PROJECT_DIR$/排序.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5010">
@@ -274,34 +337,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/stdio.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="244" selection-start-line="244" selection-end-line="244" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/wingdi.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3056" column="60" selection-start-line="3056" selection-start-column="60" selection-end-line="3056" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p1271.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p1177.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/B2002.cpp">
       <provider selected="true" editor-type-id="text-editor">
@@ -321,13 +356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-17">
           <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p1923.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="883">
-          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -366,47 +394,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p2142.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="e#41#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_vector.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="654" selection-start-line="654" selection-end-line="654" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/p1024.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p1059.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
-          <folding>
-            <element signature="e#41#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p1601.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="e#41#60#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -417,13 +408,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p1303.cpp">
+    <entry file="file://$PROJECT_DIR$/排序.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binomial Coefficients.cpp" />
+    <entry file="file://$PROJECT_DIR$/p1115.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding>
-            <element signature="e#39#58#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="627">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -437,24 +435,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p1115.cpp">
+    <entry file="file://$PROJECT_DIR$/p1059.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="1170">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p1601.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="39" selection-end-column="1" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p7714.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/p1115fast.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
+        <state relative-caret-position="417">
           <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/p2367.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        <state relative-caret-position="643">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2142.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -468,13 +499,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p2367.cpp">
+    <entry file="file://$PROJECT_DIR$/p1303.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        <state relative-caret-position="613">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="e#39#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="779" selection-start-line="779" selection-end-line="779" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexorder.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexordernew.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+          <folding>
+            <element signature="e#42#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/honorcode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/stdio.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="299" selection-start-line="299" selection-end-line="299" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primefactors.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="26" selection-start-line="26" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinomialCoefficients.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#41#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intpart.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/wingdi.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="3056" column="60" selection-start-line="3056" selection-start-column="60" selection-end-line="3056" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/-1.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algoj1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alog3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
           <folding>
             <element signature="e#41#60#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p1271.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p1781.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p1177.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-355">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#39#58#0" expanded="true" />
+            <element signature="e#832#851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p1093.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p1923.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
