@@ -12,18 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71d56d05-5668-4f2d-a942-cde29aedca45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BinomialCoefficients.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoj1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alog3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csapp.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/honorcode.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intpart.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lexorder.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lexordernew.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1093.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1781.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p7714.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primefactors.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1138.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1678.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/CXX.includecache" afterDir="false" />
@@ -34,12 +24,10 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/basic_c___pro.dir/p2367.cpp.obj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/basic_c___pro.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/basic_c___pro.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/basic_c___pro.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/basic_c___pro.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1177.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/p1177.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p2367.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/p2367.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git.md" beforeDir="false" afterPath="$PROJECT_DIR$/git.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/排序.md" beforeDir="false" afterPath="$PROJECT_DIR$/排序.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -79,10 +67,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/p1923.cpp">
+        <entry file="file://$PROJECT_DIR$/p1678.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+              <folding>
+                <element signature="e#41#60#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,7 +97,6 @@
         <option value="$PROJECT_DIR$/ponetwooneseven.cpp" />
         <option value="$PROJECT_DIR$/p1217.cpp" />
         <option value="$PROJECT_DIR$/p1271.cpp" />
-        <option value="$PROJECT_DIR$/p1923.cpp" />
         <option value="$PROJECT_DIR$/p2249.cpp" />
         <option value="$PROJECT_DIR$/p1024.cpp" />
         <option value="$PROJECT_DIR$/p1059.cpp" />
@@ -129,14 +119,17 @@
         <option value="$PROJECT_DIR$/algoj1.cpp" />
         <option value="$PROJECT_DIR$/alog3.cpp" />
         <option value="$PROJECT_DIR$/p1177.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/p1093.cpp" />
+        <option value="$PROJECT_DIR$/p1923.cpp" />
+        <option value="$PROJECT_DIR$/p1138.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/p1678.cpp" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -147,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,7 +152,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,12 +249,21 @@
       <workItem from="1681181242884" duration="2881000" />
       <workItem from="1681452254466" duration="13480000" />
       <workItem from="1681615371433" duration="8487000" />
-      <workItem from="1681976527543" duration="2096000" />
+      <workItem from="1681976527543" duration="3122000" />
+      <workItem from="1682052228788" duration="11407000" />
     </task>
+    <task id="LOCAL-00001" summary="4.20">
+      <created>1681991037860</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681991037860</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201173000" />
+    <option name="totallyTimeSpent" value="213606000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,16 +275,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.16152816" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16957104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6564246" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35893854" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6624294" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35734463" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
@@ -291,7 +292,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32960895" />
       <window_info anchor="bottom" id="CMake" order="11" weight="0.3282123" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.64664805" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.6440678" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -301,6 +302,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="4.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.20" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -308,6 +313,11 @@
           <url>file://$PROJECT_DIR$/p1024.cpp</url>
           <line>27</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/p1678.cpp</url>
+          <line>44</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -407,15 +417,6 @@
           <caret line="112" selection-start-line="112" selection-end-line="112" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/排序.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Binomial Coefficients.cpp" />
     <entry file="file://$PROJECT_DIR$/p1115.cpp">
@@ -623,13 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/p1093.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -640,10 +634,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/排序.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="66">
+            <caret line="102" column="8" selection-start-line="102" selection-start-column="8" selection-end-line="102" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/p1923.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="420">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p1138.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p1678.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

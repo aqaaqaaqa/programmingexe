@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/10154/Desktop/acwing/basic c++ pro/p1093.cpp
+C:/Users/10154/Desktop/acwing/basic c++ pro/p1678.cpp
 iostream
--
+C:/Users/10154/Desktop/acwing/basic c++ pro/iostream
 algorithm
--
-cstring
+C:/Users/10154/Desktop/acwing/basic c++ pro/algorithm
+stdlib.h
 -
 
