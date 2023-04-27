@@ -122,32 +122,32 @@ basic_c___pro/fast:
 	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/build
 .PHONY : basic_c___pro/fast
 
-p1678.obj: p1678.cpp.obj
+p1932.obj: p1932.cpp.obj
 
-.PHONY : p1678.obj
+.PHONY : p1932.obj
 
 # target to build an object file
-p1678.cpp.obj:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1678.cpp.obj
-.PHONY : p1678.cpp.obj
+p1932.cpp.obj:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1932.cpp.obj
+.PHONY : p1932.cpp.obj
 
-p1678.i: p1678.cpp.i
+p1932.i: p1932.cpp.i
 
-.PHONY : p1678.i
+.PHONY : p1932.i
 
 # target to preprocess a source file
-p1678.cpp.i:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1678.cpp.i
-.PHONY : p1678.cpp.i
+p1932.cpp.i:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1932.cpp.i
+.PHONY : p1932.cpp.i
 
-p1678.s: p1678.cpp.s
+p1932.s: p1932.cpp.s
 
-.PHONY : p1678.s
+.PHONY : p1932.s
 
 # target to generate assembly for a file
-p1678.cpp.s:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1678.cpp.s
-.PHONY : p1678.cpp.s
+p1932.cpp.s:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1932.cpp.s
+.PHONY : p1932.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... basic_c___pro
 	@echo ... edit_cache
-	@echo ... p1678.obj
-	@echo ... p1678.i
-	@echo ... p1678.s
+	@echo ... p1932.obj
+	@echo ... p1932.i
+	@echo ... p1932.s
 .PHONY : help
 
 
