@@ -122,32 +122,32 @@ basic_c___pro/fast:
 	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/build
 .PHONY : basic_c___pro/fast
 
-p3397.obj: p3397.cpp.obj
+acwing799.obj: acwing799.cpp.obj
 
-.PHONY : p3397.obj
+.PHONY : acwing799.obj
 
 # target to build an object file
-p3397.cpp.obj:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p3397.cpp.obj
-.PHONY : p3397.cpp.obj
+acwing799.cpp.obj:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/acwing799.cpp.obj
+.PHONY : acwing799.cpp.obj
 
-p3397.i: p3397.cpp.i
+acwing799.i: acwing799.cpp.i
 
-.PHONY : p3397.i
+.PHONY : acwing799.i
 
 # target to preprocess a source file
-p3397.cpp.i:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p3397.cpp.i
-.PHONY : p3397.cpp.i
+acwing799.cpp.i:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/acwing799.cpp.i
+.PHONY : acwing799.cpp.i
 
-p3397.s: p3397.cpp.s
+acwing799.s: acwing799.cpp.s
 
-.PHONY : p3397.s
+.PHONY : acwing799.s
 
 # target to generate assembly for a file
-p3397.cpp.s:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p3397.cpp.s
-.PHONY : p3397.cpp.s
+acwing799.cpp.s:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/acwing799.cpp.s
+.PHONY : acwing799.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... basic_c___pro
 	@echo ... edit_cache
-	@echo ... p3397.obj
-	@echo ... p3397.i
-	@echo ... p3397.s
+	@echo ... acwing799.obj
+	@echo ... acwing799.i
+	@echo ... acwing799.s
 .PHONY : help
 
 

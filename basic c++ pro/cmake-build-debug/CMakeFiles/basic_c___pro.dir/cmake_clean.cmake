@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/basic_c___pro.dir/p3397.cpp.obj"
+  "CMakeFiles/basic_c___pro.dir/acwing799.cpp.obj"
   "basic_c___pro.pdb"
   "basic_c___pro.exe"
   "basic_c___pro.exe.manifest"
