@@ -122,32 +122,32 @@ basic_c___pro/fast:
 	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/build
 .PHONY : basic_c___pro/fast
 
-p8072.obj: p8072.cpp.obj
+p1886.obj: p1886.cpp.obj
 
-.PHONY : p8072.obj
+.PHONY : p1886.obj
 
 # target to build an object file
-p8072.cpp.obj:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p8072.cpp.obj
-.PHONY : p8072.cpp.obj
+p1886.cpp.obj:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1886.cpp.obj
+.PHONY : p1886.cpp.obj
 
-p8072.i: p8072.cpp.i
+p1886.i: p1886.cpp.i
 
-.PHONY : p8072.i
+.PHONY : p1886.i
 
 # target to preprocess a source file
-p8072.cpp.i:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p8072.cpp.i
-.PHONY : p8072.cpp.i
+p1886.cpp.i:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1886.cpp.i
+.PHONY : p1886.cpp.i
 
-p8072.s: p8072.cpp.s
+p1886.s: p1886.cpp.s
 
-.PHONY : p8072.s
+.PHONY : p1886.s
 
 # target to generate assembly for a file
-p8072.cpp.s:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p8072.cpp.s
-.PHONY : p8072.cpp.s
+p1886.cpp.s:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1886.cpp.s
+.PHONY : p1886.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... basic_c___pro
 	@echo ... edit_cache
-	@echo ... p8072.obj
-	@echo ... p8072.i
-	@echo ... p8072.s
+	@echo ... p1886.obj
+	@echo ... p1886.i
+	@echo ... p1886.s
 .PHONY : help
 
 
