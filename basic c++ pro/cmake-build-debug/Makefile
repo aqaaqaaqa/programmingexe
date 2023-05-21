@@ -122,32 +122,32 @@ basic_c___pro/fast:
 	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/build
 .PHONY : basic_c___pro/fast
 
-p8306.obj: p8306.cpp.obj
+p3367.obj: p3367.cpp.obj
 
-.PHONY : p8306.obj
+.PHONY : p3367.obj
 
 # target to build an object file
-p8306.cpp.obj:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p8306.cpp.obj
-.PHONY : p8306.cpp.obj
+p3367.cpp.obj:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p3367.cpp.obj
+.PHONY : p3367.cpp.obj
 
-p8306.i: p8306.cpp.i
+p3367.i: p3367.cpp.i
 
-.PHONY : p8306.i
+.PHONY : p3367.i
 
 # target to preprocess a source file
-p8306.cpp.i:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p8306.cpp.i
-.PHONY : p8306.cpp.i
+p3367.cpp.i:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p3367.cpp.i
+.PHONY : p3367.cpp.i
 
-p8306.s: p8306.cpp.s
+p3367.s: p3367.cpp.s
 
-.PHONY : p8306.s
+.PHONY : p3367.s
 
 # target to generate assembly for a file
-p8306.cpp.s:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p8306.cpp.s
-.PHONY : p8306.cpp.s
+p3367.cpp.s:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p3367.cpp.s
+.PHONY : p3367.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... basic_c___pro
 	@echo ... edit_cache
-	@echo ... p8306.obj
-	@echo ... p8306.i
-	@echo ... p8306.s
+	@echo ... p3367.obj
+	@echo ... p3367.i
+	@echo ... p3367.s
 .PHONY : help
 
 
