@@ -8,73 +8,82 @@
 #include "utility"
 #include "cstdio"
 #include "string.h"
+#include "set"
 
 using namespace std;
+
 const int N = 1010;
-typedef pair<int, int> inn;
-int daobianhao[N][N];
+typedef pair<int, int> pii1;
 char haiyu[N][N];
-inn haiyudian[N * N];
-int yuandao, xiandao;
-int n;
+int bianhao[N][N];
+pii1 que[N * N];
+int yuandao, xiandao, n;
+int num = 1;
 
-int bfs(){
-    int hh = 0, tt = 0; //已经有一个点在队列里了
-    haiyudian[0] = {0, 0};
+int bfsbianhao(int x, int y){
+    int tt = 0, hh = 0;
+    que[0] = {x, y};
+    bianhao[x][y] = num;
     int dx[4] = {-1, 0, 1, 0}, dy[4] = {0 , 1, 0, -1};
     while(hh <= tt){
-        auto t = haiyudian[hh ++];
-        for(int i = 0; i< 4; i++){
-            int x = t.first + dx[i];
-            int y = t.second + dy[i];
-            if(x >= 0 && y >= 0 && x < n && y < n && haiyu[t.first][t.second] == '#' && haiyu[x][y] == '.'){
-                haiyu[t.first][t.second] = '.';
-                haiyudian[++ tt] = {x, y};
+        pii1 t = que[hh ++];
+        for(int i = 0; i < 4; i++){
+            int xx = t.first + dx[i], yy = t.second + dy[i];
+            if(xx >= 0 && xx < n && yy >= 0 && yy < n && bianhao[xx][yy] == -5 && haiyu[xx][yy] == '#'){
+                bianhao[xx][yy] = num;
+                que[++ tt] = {xx, yy};
             }
         }
     }
+
 }
 
-int bfs2(){
-    int max = 1;
-    bool lm = false;
-    int hh = 0, tt = 0; //已经有一个点在队列里了
-    int dx[4] = {-1, 0, 1, 0}, dy[4] = {0 , 1, 0, -1};
-    while(hh <= tt){
-        auto t = haiyudian[hh ++];
-        for(int i = 0; i< 4; i++){
-            int x = t.first + dx[i];
-            int y = t.second + dy[i];
-            if(x >= 0 && y >= 0 && x < n && y < n && haiyu[t.first][t.second] == '#' && haiyu[x][y] == '#' ){
-                daobianhao[x][y] = max;
-                lm = true;
-                haiyudian[++ tt] = {x, y};
-            }
-            if(!lm) {
-                max++;
-                lm = false;
-            }
-            else{
-                lm = false;
-            }
-        }
-    }
-    return max;
-}
 
 int main(){
     ios::sync_with_stdio(false);
     cin.tie(0);
 
     cin >> n;
-    memset(daobianhao, -1, sizeof daobianhao);
-    for(int i = 0; i < n; i++){
+    for(int i = 0; i < n ; i++){
         for(int j = 0; j < n; j++){
             cin >> haiyu[i][j];
+            bianhao[i][j] = -5;
         }
     }
-    bfs2();
+    for(int i = 0; i < n ; i++){
+        for(int j = 0; j < n; j++){
+            if(haiyu[i][j] == '#' && bianhao[i][j] == -5){
+                bfsbianhao(i, j);
+                num++;
+            }
+        }
+    }
+    num--;
+
+    for(int i = 0; i < n ; i++){
+        for(int j = 0; j < n; j++){
+            if(haiyu[i][j] == '#' && bianhao[i][j] != -5){
+                int dx[4] = {-1, 0, 1, 0}, dy[4] = {0 , 1, 0, -1};
+                for(int k = 0; k < 4; k++){
+                    int xx = i + dx[k], yy = j + dy[k];
+                    if(xx >= 0 && xx < n && yy >= 0 && yy < n  && haiyu[xx][yy] == '.'){
+                        bianhao[i][j] = -5;
+                    }
+                }
+            }
+        }
+    }
+
+    set<int> bianhao2;
+
+    for(int i = 0; i < n ; i++){
+        for(int j = 0; j < n; j++){
+            if(bianhao[i][j] != -5){
+                bianhao2.insert(bianhao[i][j]);
+            }
+        }
+    }
 
 
-    cout << bfs();
+    cout << num - bianhao2.size();
 }
