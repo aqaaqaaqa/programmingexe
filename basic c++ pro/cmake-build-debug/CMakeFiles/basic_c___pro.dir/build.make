@@ -56,27 +56,27 @@ include CMakeFiles/basic_c___pro.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/basic_c___pro.dir/flags.make
 
-CMakeFiles/basic_c___pro.dir/b3644.cpp.obj: CMakeFiles/basic_c___pro.dir/flags.make
-CMakeFiles/basic_c___pro.dir/b3644.cpp.obj: ../b3644.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\10154\Desktop\acwing\basic c++ pro\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/basic_c___pro.dir/b3644.cpp.obj"
-	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\basic_c___pro.dir\b3644.cpp.obj -c "C:\Users\10154\Desktop\acwing\basic c++ pro\b3644.cpp"
+CMakeFiles/basic_c___pro.dir/p5318.cpp.obj: CMakeFiles/basic_c___pro.dir/flags.make
+CMakeFiles/basic_c___pro.dir/p5318.cpp.obj: ../p5318.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\10154\Desktop\acwing\basic c++ pro\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/basic_c___pro.dir/p5318.cpp.obj"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\basic_c___pro.dir\p5318.cpp.obj -c "C:\Users\10154\Desktop\acwing\basic c++ pro\p5318.cpp"
 
-CMakeFiles/basic_c___pro.dir/b3644.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/basic_c___pro.dir/b3644.cpp.i"
-	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\10154\Desktop\acwing\basic c++ pro\b3644.cpp" > CMakeFiles\basic_c___pro.dir\b3644.cpp.i
+CMakeFiles/basic_c___pro.dir/p5318.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/basic_c___pro.dir/p5318.cpp.i"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\10154\Desktop\acwing\basic c++ pro\p5318.cpp" > CMakeFiles\basic_c___pro.dir\p5318.cpp.i
 
-CMakeFiles/basic_c___pro.dir/b3644.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/basic_c___pro.dir/b3644.cpp.s"
-	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\10154\Desktop\acwing\basic c++ pro\b3644.cpp" -o CMakeFiles\basic_c___pro.dir\b3644.cpp.s
+CMakeFiles/basic_c___pro.dir/p5318.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/basic_c___pro.dir/p5318.cpp.s"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\10154\Desktop\acwing\basic c++ pro\p5318.cpp" -o CMakeFiles\basic_c___pro.dir\p5318.cpp.s
 
 # Object files for target basic_c___pro
 basic_c___pro_OBJECTS = \
-"CMakeFiles/basic_c___pro.dir/b3644.cpp.obj"
+"CMakeFiles/basic_c___pro.dir/p5318.cpp.obj"
 
 # External object files for target basic_c___pro
 basic_c___pro_EXTERNAL_OBJECTS =
 
-basic_c___pro.exe: CMakeFiles/basic_c___pro.dir/b3644.cpp.obj
+basic_c___pro.exe: CMakeFiles/basic_c___pro.dir/p5318.cpp.obj
 basic_c___pro.exe: CMakeFiles/basic_c___pro.dir/build.make
 basic_c___pro.exe: CMakeFiles/basic_c___pro.dir/linklibs.rsp
 basic_c___pro.exe: CMakeFiles/basic_c___pro.dir/objects1.rsp
