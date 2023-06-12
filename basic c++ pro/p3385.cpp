@@ -4,7 +4,7 @@
 
 using namespace std;
 
-const int N = 4e3 + 10;
+const int N = 4e4 + 10;
 
 int n, m;
 bool falg1 = false;
