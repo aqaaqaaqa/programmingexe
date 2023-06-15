@@ -1,9 +1,3 @@
-//
-// Created by 10154 on 2023/6/14.
-//
-//
-// Created by 10154 on 2023/6/12.
-//
 
 #include "iostream"
 #include "algorithm"
