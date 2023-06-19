@@ -59,3 +59,28 @@ int main(){
     int temp = kriskal();
     cout << temp;
 }
+
+
+int n, m;
+int p[N];
+
+struct Edge{
+    int a, b, w;
+
+    bool operator < (const Edge &W) const{
+        return w < W.w;
+    }
+} edges[M];
+
+int find(int x){
+    if(p[x] != x) p[x] = find(p[x]);
+    return p[x];
+}
+
+int kruskal(){
+    sort(edges, edges + m);
+
+    for(int i = 1; i <= n; i++) p[i] = i;
+
+    int res = 0, cnt =
+}
