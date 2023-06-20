@@ -122,32 +122,32 @@ basic_c___pro/fast:
 	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/build
 .PHONY : basic_c___pro/fast
 
-p3386.obj: p3386.cpp.obj
+p1048.obj: p1048.cpp.obj
 
-.PHONY : p3386.obj
+.PHONY : p1048.obj
 
 # target to build an object file
-p3386.cpp.obj:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p3386.cpp.obj
-.PHONY : p3386.cpp.obj
+p1048.cpp.obj:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1048.cpp.obj
+.PHONY : p1048.cpp.obj
 
-p3386.i: p3386.cpp.i
+p1048.i: p1048.cpp.i
 
-.PHONY : p3386.i
+.PHONY : p1048.i
 
 # target to preprocess a source file
-p3386.cpp.i:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p3386.cpp.i
-.PHONY : p3386.cpp.i
+p1048.cpp.i:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1048.cpp.i
+.PHONY : p1048.cpp.i
 
-p3386.s: p3386.cpp.s
+p1048.s: p1048.cpp.s
 
-.PHONY : p3386.s
+.PHONY : p1048.s
 
 # target to generate assembly for a file
-p3386.cpp.s:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p3386.cpp.s
-.PHONY : p3386.cpp.s
+p1048.cpp.s:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1048.cpp.s
+.PHONY : p1048.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... basic_c___pro
 	@echo ... edit_cache
-	@echo ... p3386.obj
-	@echo ... p3386.i
-	@echo ... p3386.s
+	@echo ... p1048.obj
+	@echo ... p1048.i
+	@echo ... p1048.s
 .PHONY : help
 
 
