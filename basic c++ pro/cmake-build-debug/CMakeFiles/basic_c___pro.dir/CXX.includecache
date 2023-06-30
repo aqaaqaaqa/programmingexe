@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/10154/Desktop/acwing/basic c++ pro/b3635.cpp
+C:/Users/10154/Desktop/acwing/basic c++ pro/p1757.cpp
 iostream
 C:/Users/10154/Desktop/acwing/basic c++ pro/iostream
 algorithm
 C:/Users/10154/Desktop/acwing/basic c++ pro/algorithm
-string.h
-C:/Users/10154/Desktop/acwing/basic c++ pro/string.h
 vector
 C:/Users/10154/Desktop/acwing/basic c++ pro/vector
+cstring
+C:/Users/10154/Desktop/acwing/basic c++ pro/cstring
 
