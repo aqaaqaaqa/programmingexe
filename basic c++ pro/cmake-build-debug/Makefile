@@ -122,32 +122,32 @@ basic_c___pro/fast:
 	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/build
 .PHONY : basic_c___pro/fast
 
-acwing91.obj: acwing91.cpp.obj
+p1352.obj: p1352.cpp.obj
 
-.PHONY : acwing91.obj
+.PHONY : p1352.obj
 
 # target to build an object file
-acwing91.cpp.obj:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/acwing91.cpp.obj
-.PHONY : acwing91.cpp.obj
+p1352.cpp.obj:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1352.cpp.obj
+.PHONY : p1352.cpp.obj
 
-acwing91.i: acwing91.cpp.i
+p1352.i: p1352.cpp.i
 
-.PHONY : acwing91.i
+.PHONY : p1352.i
 
 # target to preprocess a source file
-acwing91.cpp.i:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/acwing91.cpp.i
-.PHONY : acwing91.cpp.i
+p1352.cpp.i:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1352.cpp.i
+.PHONY : p1352.cpp.i
 
-acwing91.s: acwing91.cpp.s
+p1352.s: p1352.cpp.s
 
-.PHONY : acwing91.s
+.PHONY : p1352.s
 
 # target to generate assembly for a file
-acwing91.cpp.s:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/acwing91.cpp.s
-.PHONY : acwing91.cpp.s
+p1352.cpp.s:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1352.cpp.s
+.PHONY : p1352.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... basic_c___pro
 	@echo ... edit_cache
-	@echo ... acwing91.obj
-	@echo ... acwing91.i
-	@echo ... acwing91.s
+	@echo ... p1352.obj
+	@echo ... p1352.i
+	@echo ... p1352.s
 .PHONY : help
 
 
