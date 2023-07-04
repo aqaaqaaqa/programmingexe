@@ -24,6 +24,7 @@ int main(){
         m[i] += m[i - 1];
     }
 
+
     for(int len = 2; len <= n; len++){
         for(int i = 1; i + len - 1 <= n; i++){
             int l = i;
