@@ -3,4 +3,4 @@ project(basic_c___pro)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(basic_c___pro p1352.cpp)
+add_executable(basic_c___pro acwing338.cpp)
