@@ -122,32 +122,32 @@ basic_c___pro/fast:
 	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/build
 .PHONY : basic_c___pro/fast
 
-acwing338.obj: acwing338.cpp.obj
+p1842.obj: p1842.cpp.obj
 
-.PHONY : acwing338.obj
+.PHONY : p1842.obj
 
 # target to build an object file
-acwing338.cpp.obj:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/acwing338.cpp.obj
-.PHONY : acwing338.cpp.obj
+p1842.cpp.obj:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1842.cpp.obj
+.PHONY : p1842.cpp.obj
 
-acwing338.i: acwing338.cpp.i
+p1842.i: p1842.cpp.i
 
-.PHONY : acwing338.i
+.PHONY : p1842.i
 
 # target to preprocess a source file
-acwing338.cpp.i:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/acwing338.cpp.i
-.PHONY : acwing338.cpp.i
+p1842.cpp.i:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1842.cpp.i
+.PHONY : p1842.cpp.i
 
-acwing338.s: acwing338.cpp.s
+p1842.s: p1842.cpp.s
 
-.PHONY : acwing338.s
+.PHONY : p1842.s
 
 # target to generate assembly for a file
-acwing338.cpp.s:
-	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/acwing338.cpp.s
-.PHONY : acwing338.cpp.s
+p1842.cpp.s:
+	$(MAKE) -f CMakeFiles\basic_c___pro.dir\build.make CMakeFiles/basic_c___pro.dir/p1842.cpp.s
+.PHONY : p1842.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... basic_c___pro
 	@echo ... edit_cache
-	@echo ... acwing338.obj
-	@echo ... acwing338.i
-	@echo ... acwing338.s
+	@echo ... p1842.obj
+	@echo ... p1842.i
+	@echo ... p1842.s
 .PHONY : help
 
 
